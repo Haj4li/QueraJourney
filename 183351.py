@@ -1,5 +1,7 @@
 
 # Quera Webpage https://quera.org/problemset/183351/
+# Ali Nakhaee
+# https://github.com/Haj4li
 
 months = ["Farvardin", "Ordibehesht", "Khordad", "Tir", "Mordad", "Shahrivar", "Mehr", "Aban", "Azar", "Dey", "Bahman", "Esfand"]
 weekDays = ["shanbe", "1shanbe", "2shanbe", "3shanbe", "4shanbe", "5shanbe", "jome"]
